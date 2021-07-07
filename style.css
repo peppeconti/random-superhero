@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    box-sizing: border-box;
+}
+section {
+    width: 384px;
+}
+img {
+    width: 100%;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    margin: 20px 0;
+}
+h2 {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    margin: 20px 0;
+}
+.pronome {
+    text-transform: capitalize;
+}
+.infos {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+
+}
+.infos p {
+    margin: 10px 0px;
+}
